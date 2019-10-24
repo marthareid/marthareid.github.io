@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cutekitten.herokuapp.com
+Token: 835990cb14376a44da7a254106aa2aacddb83433c835174b358456b01e9014fb
